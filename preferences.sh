@@ -175,7 +175,7 @@ defaults write com.apple.systemsound "com.apple.sound.uiaudio.enabled" -int 0
 echo "set bell-style none" >> ~/.inputrc
 
 # set login window text
-sudo defaults write /library/preferences/com.apple.loginwindow loginwindowtext "if you found this computer, please call +33 6 68 98 39 19"
+sudo defaults write /library/preferences/com.apple.loginwindow loginwindowtext "If you found this computer, please call +33 6 68 98 39 19"
 
 # set hostname
 sudo scutil --set hostname damien.local

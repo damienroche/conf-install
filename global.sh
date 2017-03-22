@@ -33,7 +33,7 @@ brew tap caskroom/cask
 # install apps
 brew cask install \
 1password \
-ableton-live \
+ableton-live-suite \
 google-chrome \
 firefox \
 sequel-pro \
