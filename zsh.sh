@@ -9,5 +9,4 @@ if [ -d "$HOME/.oh-my-zsh" ]; then
 	fi
 	cd "$CURRENT_DIR"
 	curl https://raw.githubusercontent.com/damienroche/conf-dotfiles/master/zshrc > ~/.zshrc
-	source ~/.zshrc
 fi
