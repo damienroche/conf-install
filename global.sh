@@ -25,7 +25,8 @@ graphicsmagick \
 youtube-dl \
 autojump \
 npm \
-bower
+bower \
+htop
 
 # install cask
 brew tap caskroom/cask
@@ -44,4 +45,6 @@ spotify \
 skype \
 flash-player \
 sublime-text \
+transmit \
 vlc \
+unrar \

@@ -4,3 +4,10 @@
 # install Rails
 gem install bundler pry hub
 gem install rails
+
+# install Middleman
+gem install middleman
+
+# install rsync for middleman deployment
+brew tap homebrew/dupes
+brew install rsync
